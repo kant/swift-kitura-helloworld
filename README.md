@@ -27,7 +27,7 @@ Create a new directory for your project:
 $ mkdir kituraHelloworld
 ```
 
-Create a swift project using the Swift Package Manger:
+Create a swift project using the Swift Package Manager:
 
 ```
 $ cd kituraHelloworld
@@ -151,7 +151,7 @@ Now run your new web application:
 $ .build/debug/kituraHelloworld
 ```
 
-If prompted, click Allow:
+If prompted, click `Allow`:
 
 ![Network Connection Permission](docs/swift-connection-prompt.png)
 
